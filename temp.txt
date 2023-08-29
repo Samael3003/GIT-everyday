@@ -1,1 +1,1 @@
-            public void run() {
+                new StudentManagementSystem().setVisible(true);
