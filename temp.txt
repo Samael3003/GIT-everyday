@@ -1,1 +1,1 @@
-    private List<Student> students;
+    private JTextArea textArea;
