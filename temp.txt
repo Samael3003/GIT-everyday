@@ -1,0 +1,1 @@
+setTitle("Student Management System");
