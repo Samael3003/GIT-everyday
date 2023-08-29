@@ -1,1 +1,1 @@
-this.name = name;
+this.rollNumber = rollNumber;
