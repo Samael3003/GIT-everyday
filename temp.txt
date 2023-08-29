@@ -1,1 +1,1 @@
-        for (Student student : students) {
+            textArea.append("Name: " + student.getName() + ", Roll Number: " + student.getRollNumber() + "\n");
