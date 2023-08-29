@@ -1,1 +1,1 @@
-    private JTextArea textArea;
+
