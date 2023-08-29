@@ -1,1 +1,1 @@
-
+        JPanel panel = new JPanel();
