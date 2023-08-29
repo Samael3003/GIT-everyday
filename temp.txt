@@ -1,1 +1,1 @@
-        String name = JOptionPane.showInputDialog("Enter student name:");
+        String rollNumber = JOptionPane.showInputDialog("Enter student roll number:");
