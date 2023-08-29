@@ -1,1 +1,1 @@
-int m = grid.length;
+int n = grid[0].length;
