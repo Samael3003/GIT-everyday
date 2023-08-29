@@ -1,1 +1,1 @@
-    private String name;
+    private String rollNumber;
