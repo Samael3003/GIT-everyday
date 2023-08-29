@@ -1,1 +1,1 @@
-        addStudentButton.addActionListener(this);
+        panel.add(addStudentButton, BorderLayout.NORTH);
