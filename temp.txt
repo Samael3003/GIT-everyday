@@ -1,1 +1,1 @@
-class StudentManagementSystem extends JFrame implements ActionListener {
+private List<Student> students;
