@@ -1,1 +1,1 @@
-public void setPresent(boolean present) {
+this.present = present;
