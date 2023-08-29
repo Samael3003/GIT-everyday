@@ -1,0 +1,1 @@
+while (row < m && col >= 0) {
