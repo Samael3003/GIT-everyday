@@ -1,1 +1,1 @@
-        setTitle("Student Management System");
+        setSize(400, 300);
