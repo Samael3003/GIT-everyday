@@ -1,1 +1,1 @@
-if (grid[row][col] < 0) {
+count += m - row; // All remaining elements in the current column are negative
