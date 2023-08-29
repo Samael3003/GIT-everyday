@@ -1,1 +1,1 @@
-    private void addStudent() {
+        String name = JOptionPane.showInputDialog("Enter student name:");
