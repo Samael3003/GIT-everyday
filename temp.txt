@@ -1,1 +1,1 @@
-
+        textArea = new JTextArea();
