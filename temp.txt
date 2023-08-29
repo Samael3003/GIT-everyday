@@ -1,1 +1,1 @@
-        Student student = new Student(name, rollNumber);
+        students.add(student);
