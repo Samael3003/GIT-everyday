@@ -1,1 +1,1 @@
-int row = 0;
+int col = n - 1;
