@@ -1,1 +1,1 @@
-    private String rollNumber;
+    private boolean present;
