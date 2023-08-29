@@ -1,1 +1,1 @@
-JButton addStudentButton = new JButton("Add Student");
+addStudentButton.addActionListener(this);
